@@ -1,6 +1,8 @@
 # 🚀 File Transfer Application
 
-A modern, secure, and user-friendly file transfer application built as the final project for my Celebal Tech React.js Internship Assignment. This application leverages **Socket.IO** for real-time file sharing, robust authentication, and a responsive design to provide seamless file transfers across devices.
+A modern, secure, and user-friendly file transfer application built as the **final project** for my **Celebal Tech React.js Internship Assignment**. This application leverages **Socket.IO** for real-time file sharing, robust authentication, and a responsive design to provide seamless file transfers across devices.
+
+
 ---
 
 ## ✨ Features
