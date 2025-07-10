@@ -10,6 +10,11 @@ const path = require('path');
 const authRoutes = require('./routes/auth');
 const fileRoutes = require('./routes/fileRoutes');
 
+
+const uploadRoute = require('./routes/upload');
+app.use('/api/upload', uploadRoute);
+
+app.use('/api/auth', authRoutes);
 const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
